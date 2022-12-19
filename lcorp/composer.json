@@ -1,0 +1,29 @@
+{
+    "name": "vedees/wcms",
+    "description": "WCMS - Simple CMS",
+    "type": "project",
+    "homepage": "https://wcms.space",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Evgenii Vedegis",
+            "email": "vedegis@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.4",
+        "ufee/sqlite3": "^1.0",
+        "jajo/jsondb": "^3.0",
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "wcms\\": "core/"
+        },
+        "files": [
+            "core/defines.php",
+            "core/functions.php"
+        ]
+    }
+}

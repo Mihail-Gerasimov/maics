@@ -1,0 +1,183 @@
+{
+    "packages": [
+        {
+            "name": "jajo/jsondb",
+            "version": "v3.0",
+            "version_normalized": "3.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/donjajo/php-jsondb.git",
+                "reference": "4117da5380618f3699d7d89cdefa2a97bc04befa"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/donjajo/php-jsondb/zipball/4117da5380618f3699d7d89cdefa2a97bc04befa",
+                "reference": "4117da5380618f3699d7d89cdefa2a97bc04befa",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7"
+            },
+            "time": "2021-09-01T23:41:53+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "helpers/dataTypes.php",
+                    "helpers/json.php"
+                ],
+                "psr-4": {
+                    "Jajo\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jajo",
+                    "email": "me@donjajo.com"
+                }
+            ],
+            "description": "A PHP Class that reads JSON file as a database. Use for sample DBs",
+            "support": {
+                "issues": "https://github.com/donjajo/php-jsondb/issues",
+                "source": "https://github.com/donjajo/php-jsondb/tree/v3.0"
+            },
+            "install-path": "../jajo/jsondb"
+        },
+        {
+            "name": "phpmailer/phpmailer",
+            "version": "v6.6.0",
+            "version_normalized": "6.6.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PHPMailer/PHPMailer.git",
+                "reference": "e43bac82edc26ca04b36143a48bde1c051cfd5b1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/e43bac82edc26ca04b36143a48bde1c051cfd5b1",
+                "reference": "e43bac82edc26ca04b36143a48bde1c051cfd5b1",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ctype": "*",
+                "ext-filter": "*",
+                "ext-hash": "*",
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+                "doctrine/annotations": "^1.2",
+                "php-parallel-lint/php-console-highlighter": "^0.5.0",
+                "php-parallel-lint/php-parallel-lint": "^1.3.1",
+                "phpcompatibility/php-compatibility": "^9.3.5",
+                "roave/security-advisories": "dev-latest",
+                "squizlabs/php_codesniffer": "^3.6.2",
+                "yoast/phpunit-polyfills": "^1.0.0"
+            },
+            "suggest": {
+                "ext-mbstring": "Needed to send email in multibyte encoding charset or decode encoded addresses",
+                "hayageek/oauth2-yahoo": "Needed for Yahoo XOAUTH2 authentication",
+                "league/oauth2-google": "Needed for Google XOAUTH2 authentication",
+                "psr/log": "For optional PSR-3 debug logging",
+                "stevenmaguire/oauth2-microsoft": "Needed for Microsoft XOAUTH2 authentication",
+                "symfony/polyfill-mbstring": "To support UTF-8 if the Mbstring PHP extension is not enabled (^1.2)"
+            },
+            "time": "2022-02-28T15:31:21+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "PHPMailer\\PHPMailer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-2.1-only"
+            ],
+            "authors": [
+                {
+                    "name": "Marcus Bointon",
+                    "email": "phpmailer@synchromedia.co.uk"
+                },
+                {
+                    "name": "Jim Jagielski",
+                    "email": "jimjag@gmail.com"
+                },
+                {
+                    "name": "Andy Prevost",
+                    "email": "codeworxtech@users.sourceforge.net"
+                },
+                {
+                    "name": "Brent R. Matzelle"
+                }
+            ],
+            "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
+            "support": {
+                "issues": "https://github.com/PHPMailer/PHPMailer/issues",
+                "source": "https://github.com/PHPMailer/PHPMailer/tree/v6.6.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/Synchro",
+                    "type": "github"
+                }
+            ],
+            "install-path": "../phpmailer/phpmailer"
+        },
+        {
+            "name": "ufee/sqlite3",
+            "version": "1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ufee/Sqlite3.git",
+                "reference": "f9c150b95826dd545f7c78f94d44d0bf4c6141d8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ufee/Sqlite3/zipball/f9c150b95826dd545f7c78f94d44d0bf4c6141d8",
+                "reference": "f9c150b95826dd545f7c78f94d44d0bf4c6141d8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5"
+            },
+            "time": "2019-08-16T13:13:08+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Ufee\\Sqlite3\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vlad Ionov",
+                    "email": "vlad@ufee.ru",
+                    "role": "Creator"
+                }
+            ],
+            "description": "Sqlite3 PHP Class (https://www.sqlite.org/)",
+            "homepage": "https://github.com/ufee",
+            "support": {
+                "email": "vlad@ufee.ru",
+                "issues": "https://github.com/ufee",
+                "source": "https://github.com/ufee/Sqlite3/tree/1.0.1"
+            },
+            "install-path": "../ufee/sqlite3"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

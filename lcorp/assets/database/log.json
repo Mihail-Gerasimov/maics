@@ -1,0 +1,503 @@
+[
+    {
+        "text": "Удалён лид №18 (test_21, +7 000 000 00 21)",
+        "id": 29,
+        "created_at": "04 May 2022, 14:57:18"
+    },
+    {
+        "text": "Получен новый лид: test, 7777, (E-mail не указан)",
+        "id": 30,
+        "created_at": "04 May 2022, 14:58:09"
+    },
+    {
+        "text": "Лид: [test, 7777, (E-mail не указан)] отправлен на e-mail pavel.avalon@gmail.com",
+        "id": 31,
+        "created_at": "04 May 2022, 14:58:10"
+    },
+    {
+        "text": "Получен новый лид: jknjk987, kjljknjkln, (E-mail не указан)",
+        "id": 32,
+        "created_at": "04 May 2022, 14:58:41"
+    },
+    {
+        "text": "Лид: [jknjk987, kjljknjkln, (E-mail не указан)] отправлен на e-mail pavel.avalon@gmail.com",
+        "id": 33,
+        "created_at": "04 May 2022, 14:58:42"
+    },
+    {
+        "text": "Удалён лид №19 (jknjk987, kjljknjkln)",
+        "id": 34,
+        "created_at": "04 May 2022, 14:58:50"
+    },
+    {
+        "text": "Удалён лид №18 (test, 7777)",
+        "id": 35,
+        "created_at": "04 May 2022, 14:58:51"
+    },
+    {
+        "text": "Получен новый лид: test, +79879999999, (E-mail не указан)",
+        "id": 36,
+        "created_at": "06 June 2022, 17:34:21"
+    },
+    {
+        "text": "Лид: [test, +79879999999, (E-mail не указан)] отправлен на e-mail pavel.avalon@gmail.com",
+        "id": 37,
+        "created_at": "06 June 2022, 17:34:22"
+    },
+    {
+        "text": "Удалён лид №18 (test, +79879999999)",
+        "id": 38,
+        "created_at": "06 June 2022, 17:34:32"
+    },
+    {
+        "text": "Удалён лид №17 (test_20, +7 000 000 00 20)",
+        "id": 39,
+        "created_at": "06 June 2022, 17:34:32"
+    },
+    {
+        "text": "Удалён лид №16 (test_19, +7 000 000 00 19)",
+        "id": 40,
+        "created_at": "06 June 2022, 17:34:33"
+    },
+    {
+        "text": "Удалён лид №15 (test_18, +7 000 000 00 18)",
+        "id": 41,
+        "created_at": "06 June 2022, 17:34:33"
+    },
+    {
+        "text": "Удалён лид №14 (test_17, +7 000 000 00 17)",
+        "id": 42,
+        "created_at": "06 June 2022, 17:34:33"
+    },
+    {
+        "text": "Удалён лид №13 (test_16, +7 000 000 00 16)",
+        "id": 43,
+        "created_at": "06 June 2022, 17:34:33"
+    },
+    {
+        "text": "Удалён лид №12 (test_15, +7 000 000 00 15)",
+        "id": 44,
+        "created_at": "06 June 2022, 17:34:33"
+    },
+    {
+        "text": "Удалён лид №11 (test_14, +7 000 000 00 14)",
+        "id": 45,
+        "created_at": "06 June 2022, 17:34:33"
+    },
+    {
+        "text": "Удалён лид №10 (test_13, +7 000 000 00 13)",
+        "id": 46,
+        "created_at": "06 June 2022, 17:34:34"
+    },
+    {
+        "text": "Удалён лид №9 (test_12, +7 000 000 00 12)",
+        "id": 47,
+        "created_at": "06 June 2022, 17:34:34"
+    },
+    {
+        "text": "Удалён лид №8 (test_11, +7 000 000 00 11)",
+        "id": 48,
+        "created_at": "06 June 2022, 17:34:34"
+    },
+    {
+        "text": "Удалён лид №7 (test_10, +7 000 000 00 10)",
+        "id": 49,
+        "created_at": "06 June 2022, 17:34:34"
+    },
+    {
+        "text": "Удалён лид №6 (test_10, +7 000 000 00 10)",
+        "id": 50,
+        "created_at": "06 June 2022, 17:34:34"
+    },
+    {
+        "text": "Удалён лид №5 (test_05, +7 000 000 00 05)",
+        "id": 51,
+        "created_at": "06 June 2022, 17:34:35"
+    },
+    {
+        "text": "Удалён лид №4 (test_04, +7 000 000 00 04)",
+        "id": 52,
+        "created_at": "06 June 2022, 17:34:35"
+    },
+    {
+        "text": "Удалён лид №3 (test_03, +7 000 000 00 03)",
+        "id": 53,
+        "created_at": "06 June 2022, 17:34:35"
+    },
+    {
+        "text": "Удалён лид №2 (test_02, +7 000 000 00 02)",
+        "id": 54,
+        "created_at": "06 June 2022, 17:34:35"
+    },
+    {
+        "text": "Удалён лид №1 (test_01, +7 000 000 00 01)",
+        "id": 55,
+        "created_at": "06 June 2022, 17:34:36"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 56,
+        "created_at": "06 June 2022, 22:14:04"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 57,
+        "created_at": "06 June 2022, 22:14:05"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail pavel.avalon@gmail.com",
+        "id": 58,
+        "created_at": "06 June 2022, 22:14:05"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 59,
+        "created_at": "06 June 2022, 22:17:07"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 60,
+        "created_at": "06 June 2022, 22:17:07"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 61,
+        "created_at": "06 June 2022, 22:17:07"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 62,
+        "created_at": "06 June 2022, 22:19:27"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 63,
+        "created_at": "06 June 2022, 22:19:28"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 64,
+        "created_at": "06 June 2022, 22:19:28"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 65,
+        "created_at": "06 June 2022, 22:20:24"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 66,
+        "created_at": "06 June 2022, 22:20:24"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 67,
+        "created_at": "06 June 2022, 22:20:24"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 68,
+        "created_at": "06 June 2022, 22:21:53"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 69,
+        "created_at": "06 June 2022, 22:21:54"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail mihailgerasimov86@gmail.com",
+        "id": 70,
+        "created_at": "06 June 2022, 22:21:54"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 71,
+        "created_at": "06 June 2022, 22:24:35"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 72,
+        "created_at": "06 June 2022, 22:24:35"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 73,
+        "created_at": "06 June 2022, 22:24:35"
+    },
+    {
+        "text": "Получен новый лид: dsfgsfddfsdsfg, 89377991320, (E-mail не указан)",
+        "id": 74,
+        "created_at": "06 June 2022, 22:26:14"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 75,
+        "created_at": "06 June 2022, 22:26:14"
+    },
+    {
+        "text": "Лид: [dsfgsfddfsdsfg, 89377991320, (E-mail не указан)] отправлен на e-mail mihailgerasimov86@gmail.com",
+        "id": 76,
+        "created_at": "06 June 2022, 22:26:14"
+    },
+    {
+        "text": "Получен новый лид: dfdsfdf, 89377991320, (E-mail не указан)",
+        "id": 77,
+        "created_at": "06 June 2022, 22:44:25"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 78,
+        "created_at": "06 June 2022, 22:44:25"
+    },
+    {
+        "text": "Лид: [dfdsfdf, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 79,
+        "created_at": "06 June 2022, 22:44:25"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 80,
+        "created_at": "06 June 2022, 22:56:43"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 81,
+        "created_at": "06 June 2022, 22:56:44"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 82,
+        "created_at": "06 June 2022, 22:56:44"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 83,
+        "created_at": "06 June 2022, 22:58:11"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 84,
+        "created_at": "06 June 2022, 22:58:11"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 85,
+        "created_at": "06 June 2022, 22:58:11"
+    },
+    {
+        "text": "Получен новый лид: dsfgsfddfsdsfg, 89377991320, (E-mail не указан)",
+        "id": 86,
+        "created_at": "06 June 2022, 22:59:47"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 87,
+        "created_at": "06 June 2022, 22:59:47"
+    },
+    {
+        "text": "Лид: [dsfgsfddfsdsfg, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 88,
+        "created_at": "06 June 2022, 22:59:47"
+    },
+    {
+        "text": "Получен новый лид: dsfgsfddfsdsfg, 89377991320, (E-mail не указан)",
+        "id": 89,
+        "created_at": "06 June 2022, 23:01:28"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 90,
+        "created_at": "06 June 2022, 23:01:28"
+    },
+    {
+        "text": "Лид: [dsfgsfddfsdsfg, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 91,
+        "created_at": "06 June 2022, 23:01:28"
+    },
+    {
+        "text": "Получен новый лид: dsfgsfddfsdsfg, 89377991320, (E-mail не указан)",
+        "id": 92,
+        "created_at": "06 June 2022, 23:02:53"
+    },
+    {
+        "text": "Ошибка отправки сообщения: The following From address failed: mihailgerasimov86@gmail.com : MAIL FROM command failed,not local sender over smtp\r\n,550,SMTP server error: MAIL FROM command failed Detail: not local sender over smtp\r\n SMTP code: 550SMTP server error: MAIL FROM command failed Detail: not local sender over smtp\r\n SMTP code: 550",
+        "id": 93,
+        "created_at": "06 June 2022, 23:02:54"
+    },
+    {
+        "text": "Лид: [dsfgsfddfsdsfg, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 94,
+        "created_at": "06 June 2022, 23:02:54"
+    },
+    {
+        "text": "Получен новый лид: dsfgsfddfsdsfg, 89377991320, (E-mail не указан)",
+        "id": 95,
+        "created_at": "06 June 2022, 23:04:28"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 96,
+        "created_at": "06 June 2022, 23:04:29"
+    },
+    {
+        "text": "Лид: [dsfgsfddfsdsfg, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 97,
+        "created_at": "06 June 2022, 23:04:29"
+    },
+    {
+        "text": "Получен новый лид: test, 89377991320, (E-mail не указан)",
+        "id": 98,
+        "created_at": "07 June 2022, 17:44:57"
+    },
+    {
+        "text": "Ошибка отправки сообщения: SMTP Error: Could not authenticate.",
+        "id": 99,
+        "created_at": "07 June 2022, 17:44:59"
+    },
+    {
+        "text": "Лид: [test, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 100,
+        "created_at": "07 June 2022, 17:44:59"
+    },
+    {
+        "text": "Получен новый лид: dsfgsfddfsdsfg, 89377991320, (E-mail не указан)",
+        "id": 101,
+        "created_at": "07 June 2022, 17:47:03"
+    },
+    {
+        "text": "Лид: [dsfgsfddfsdsfg, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 102,
+        "created_at": "07 June 2022, 17:47:04"
+    },
+    {
+        "text": "Получен новый лид: 'l;fkdjgh'dsfl;kgjhs, 89377991320, (E-mail не указан)",
+        "id": 103,
+        "created_at": "07 June 2022, 20:32:17"
+    },
+    {
+        "text": "Лид: ['l;fkdjgh'dsfl;kgjhs, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 104,
+        "created_at": "07 June 2022, 20:32:18"
+    },
+    {
+        "text": "Получен новый лид: dsfgsfddfsdsfg, 89377991320, (E-mail не указан)",
+        "id": 105,
+        "created_at": "07 June 2022, 20:33:41"
+    },
+    {
+        "text": "Лид: [dsfgsfddfsdsfg, 89377991320, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 106,
+        "created_at": "07 June 2022, 20:33:42"
+    },
+    {
+        "text": "Получен новый лид: андрей, 89377993456, (E-mail не указан)",
+        "id": 107,
+        "created_at": "07 June 2022, 20:55:54"
+    },
+    {
+        "text": "Лид: [андрей, 89377993456, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 108,
+        "created_at": "07 June 2022, 20:55:55"
+    },
+    {
+        "text": "Получен новый лид: выаыва, 3453453455, (E-mail не указан)",
+        "id": 109,
+        "created_at": "07 June 2022, 20:57:27"
+    },
+    {
+        "text": "Лид: [выаыва, 3453453455, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 110,
+        "created_at": "07 June 2022, 20:57:28"
+    },
+    {
+        "text": "Получен новый лид: fsdfsdf, sdfsdfsdf, (E-mail не указан)",
+        "id": 111,
+        "created_at": "07 June 2022, 21:00:18"
+    },
+    {
+        "text": "Лид: [fsdfsdf, sdfsdfsdf, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 112,
+        "created_at": "07 June 2022, 21:00:19"
+    },
+    {
+        "text": "Получен новый лид: dvfsdfsdf, 435345345345, (E-mail не указан)",
+        "id": 113,
+        "created_at": "07 June 2022, 21:07:51"
+    },
+    {
+        "text": "Лид: [dvfsdfsdf, 435345345345, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 114,
+        "created_at": "07 June 2022, 21:07:52"
+    },
+    {
+        "text": "Получен новый лид: dfsgsdfgdsfg, 89377993456, (E-mail не указан)",
+        "id": 115,
+        "created_at": "07 June 2022, 21:08:31"
+    },
+    {
+        "text": "Лид: [dfsgsdfgdsfg, 89377993456, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 116,
+        "created_at": "07 June 2022, 21:08:32"
+    },
+    {
+        "text": "Получен новый лид: андрей, 89377993456, (E-mail не указан)",
+        "id": 117,
+        "created_at": "07 June 2022, 21:11:45"
+    },
+    {
+        "text": "Лид: [андрей, 89377993456, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 118,
+        "created_at": "07 June 2022, 21:11:46"
+    },
+    {
+        "text": "Получен новый лид: fynjy, 89377994567, (E-mail не указан)",
+        "id": 119,
+        "created_at": "07 June 2022, 21:15:25"
+    },
+    {
+        "text": "Лид: [fynjy, 89377994567, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 120,
+        "created_at": "07 June 2022, 21:15:25"
+    },
+    {
+        "text": "Получен новый лид: test, 79999999999, (E-mail не указан)",
+        "id": 121,
+        "created_at": "19 June 2022, 11:00:46"
+    },
+    {
+        "text": "Лид: [test, 79999999999, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 122,
+        "created_at": "19 June 2022, 11:00:47"
+    },
+    {
+        "text": "Получен новый лид: test2, 867987897, (E-mail не указан)",
+        "id": 123,
+        "created_at": "19 June 2022, 11:04:22"
+    },
+    {
+        "text": "Лид: [test2, 867987897, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 124,
+        "created_at": "19 June 2022, 11:04:23"
+    },
+    {
+        "text": "Получен новый лид: test3, 89876666666, (E-mail не указан)",
+        "id": 125,
+        "created_at": "19 June 2022, 11:06:22"
+    },
+    {
+        "text": "Лид: [test3, 89876666666, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 126,
+        "created_at": "19 June 2022, 11:06:22"
+    },
+    {
+        "text": "Получен новый лид: TEST_M, 89377997557, (E-mail не указан)",
+        "id": 127,
+        "created_at": "19 June 2022, 14:23:57"
+    }
+,
+    {
+        "text": "Лид: [TEST_M, 89377997557, (E-mail не указан)] отправлен на e-mail dedokk15050@mail.ru",
+        "id": 128,
+        "created_at": "19 June 2022, 14:23:58"
+    }
+]

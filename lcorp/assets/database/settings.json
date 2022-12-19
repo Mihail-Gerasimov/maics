@@ -1,0 +1,10 @@
+{
+    "outbound_email": "dedokk15050@mail.ru",
+    "inbound_email": "dedokk15050@mail.ru",
+    "username": "dedokk15050@mail.ru",
+    "password": "pafUQ7HDE5G1ae34M6CM",
+    "use_SMTP": "1",
+    "SMTP_host": "smtp.mail.ru",
+    "SMTP_port": "465",
+    "subject": "\u0417\u0430\u044f\u0432\u043a\u0430 \u0441 \u0441\u0430\u0439\u0442\u0430 maics"
+}
